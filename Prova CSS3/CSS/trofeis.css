@@ -1,0 +1,20 @@
+.imagens
+{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.imagens img
+{
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.card1, .card2, .card3
+{
+   
+    text-align: center;
+    text-align: justify;
+}
+

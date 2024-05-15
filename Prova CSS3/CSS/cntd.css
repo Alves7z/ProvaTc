@@ -1,0 +1,25 @@
+.conteudo1 
+{
+    background-image: url(../Imagens/download.jfif);
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conteudo1 h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.conteudo1 a
+{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 100px;
+    border: 2px solid black;
+    padding: 2px;
+}
+hr
+{
+    border-radius: 100%;
+}
